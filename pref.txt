@@ -1,0 +1,17 @@
+Kategorien    Nummer
+
+Milchprodukte
+  Käse
+  Fleisch
+Obst
+Gemüse
+Süsigkeiten
+Backwaren
+  Brot
+  Brötchen
+  Sonstiges
+ 
+
+
+
+Sondermüll
